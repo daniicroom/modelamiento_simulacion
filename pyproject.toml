@@ -1,14 +1,17 @@
 [tool.poetry]
-name = "modelamiento-simulacion-poetry"
+name = "modelamiento"
 version = "0.1.0"
 description = "uso numpy"
 authors = ["Your Name <you@example.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "modelamiento_simulacion_poetry"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+numpy = "^1.24.2"
+pandas = "^1.5.3"
+jupyter = "^1.0.0"
+matplotlib = "^3.7.1"
 
 
 [build-system]
