@@ -1,0 +1,16 @@
+Instrucciones: 
+
+Utilice Python y las bibliotecas statsmodels y scikit-learn para completar la prueba. 
+Puede buscar en la documentación oficial de las bibliotecas u otras fuentes en línea si es necesario. 
+No dude en comentar su código para explicar su razonamiento y enfoque. 
+Puede realzarse en los mismos grupos que han venido trabajando durante todo el curso.
+Preguntas: 
+
+Importe las bibliotecas necesarias y cargue un dataset de su elección. Asegúrese de explorar los datos y verificar si hay algún problema, como valores faltantes. 
+Realice una regresión lineal utilizando al menos dos características como variables independientes y una variable como la variable dependiente. Muestre un resumen de los resultados del modelo utilizando statsmodels. 
+Utilice scikit-learn para realizar una regresión lineal con las mismas características y variables del paso anterior. Ajuste el modelo a los datos y genere las predicciones. 
+Compare los resultados de los dos modelos. ¿Hay alguna diferencia significativa en los coeficientes, estadísticas de ajuste u otros aspectos relevantes? Explique sus observaciones. 
+Calcule al menos dos métricas de rendimiento (por ejemplo, error cuadrático medio, coeficiente de determinación) para las predicciones generadas por ambos modelos. ¿Cómo se comparan los dos modelos en términos de rendimiento predictivo? 
+Explique las ventajas y limitaciones de statsmodels y scikit-learn en el contexto de la regresión lineal. ¿Cuándo sería apropiado utilizar una biblioteca sobre la otra? 
+Suponga que tiene un dataset más grande con millones de registros. ¿Cómo podría manejar el desafío de la escalabilidad al aplicar regresión lineal utilizando statsmodels y scikit-learn? Explique sus ideas y consideraciones. 
+Adjunte los archivos en formato .zip y agregue un archivo txt con los integrantes del grupo.
